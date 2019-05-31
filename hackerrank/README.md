@@ -13,6 +13,7 @@
 - [C](c) - ([website](https://www.hackerrank.com/domains/c))
   - [Introduction](c/introduction)
   - [Conditionals and Loops](c/conditionals_and_loops)
+  - [Arrays and Strings](c/arrays_and_strings)
 - [Python](python) - ([website](https://www.hackerrank.com/domains/python))
   - [Introduction](python/introduction)
   - [Basic Data Types](python/basic_data_types)
@@ -21,10 +22,17 @@
   - [Itertool](python/itertools)
   - [Collections](python/collections)
   - [Regex and Parsing](python/regex_and_parsing)
+- [Java](java) - ([website](https://www.hackerrank.com/domains/java))
+  - [Introduction](java/introduction)
   
 ### Specialized Skills
+
 - [SQL](sql) - ([website](https://www.hackerrank.com/domains/sql))
   - [Basic Select](sql/basic_select)
   - [Advanced Select](sql/advanced_select)
   - [Aggregation](sql/aggregation)
   - [Basic Join](sql/basic_join)
+
+### Contests
+
+- [Project Euler](contests/project_euler) - ([website](https://www.hackerrank.com/contests/projecteuler/challenges))
