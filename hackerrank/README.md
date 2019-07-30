@@ -24,6 +24,9 @@
   - [Regex and Parsing](python/regex_and_parsing)
 - [Java](java) - ([website](https://www.hackerrank.com/domains/java))
   - [Introduction](java/introduction)
+  - [Strings](java/strings)
+  - [BigNumber](java/bignumber)
+  - [Exception Handling](java/exception_handling)
   
 ### Specialized Skills
 
